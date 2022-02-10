@@ -1,0 +1,48 @@
+{
+  "common": {
+    "version": "Version",
+    "invalid_configuration": "Invalid configuration",
+    "show_warning": "Show Warning",
+    "show_error": "Show Error"
+  },
+  "config": {
+    "hide_intro": "Hide Introduction",
+    "hide_title": "Hide Title",
+    "registry": "Registry"
+  },
+  "area": {
+    "one": "Area",
+    "other": "Areas"
+  },
+  "entity": {
+    "one": "Entity",
+    "other": "Entities"
+  },
+  "intro": {
+    "area": "Update settings for rooms (areas).",
+    "entity": "Update settings for devices (entities).",
+    "person": "Update settings for persons (users).",
+    "update": "After updating, you will need to reload Lovelace to see your changes."
+  },
+  "person": {
+    "one": "Person",
+    "other": "Persons"
+  },
+  "settings": {
+    "area": "Area",
+    "area_description": "Overwrite the area set in the registry for this entity.",
+    "entity_type": "Entity Type",
+    "sort_order": "Sort Order",
+    "visible": "Visible",
+    "visible_area_description": "Areas that are not visible will not be displayed automatically in dashboards."
+  },
+  "title": {
+    "area": "Area Settings",
+    "entity": "Entity Settings",
+    "person": "Person Settings"
+  },
+  "update": {
+    "one": "Update",
+    "other": "Updates"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cSpell.words": [
+    "Knott",
+    "camelcase",
+    "deepmerge",
+    "dimgray",
+    "hacs",
+    "hass",
+    "homeassistant",
+    "jayknott",
+    "listbox",
+    "markdownlint",
+    "nowrap",
+    "serveopts",
+    "stylelint",
+    "tabindex",
+    "typecheck",
+    "unsub"
+  ],
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
